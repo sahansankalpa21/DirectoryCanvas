@@ -17,10 +17,10 @@ This Node.js application allows you to generate or create folder structures eith
 1. Clone or download this repository.
 2. Navigate to the folder where the script is located.
 3. Install dependencies:
+
    ```bash
    npm install
    ```
-````
 
 4. Run the script:
    ```bash
@@ -71,6 +71,3 @@ This represents the following structure:
     - `file2.txt` (file)
   - `folder2/` (folder)
   - `file3.txt` (file)
-
-
-```
